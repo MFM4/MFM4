@@ -4,8 +4,7 @@
 
 💼 For tiden gjennomfører jeg praksis ved Thon Hotel Kristiansand, hvor vi utvikler en inventory-applikasjon for bedre oversikt og kontroll over hotellets varebeholdning.
 
-👥 Jeg er en del av FILO, en studentgruppe som jobber med utvikling, design og problemløsning gjennom ulike IT-prosjekter.
-
+👥 Jeg og studentgruppen er også klar for neste utfordring til bachelorprosjektet vår 2027.
 🌐 FILO: https://filo-gruppe16.vercel.app/
 
 💻 Jeg jobber blant annet med
