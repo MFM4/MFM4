@@ -6,7 +6,7 @@
 
 👥 Jeg er en del av FILO, en studentgruppe som jobber med utvikling, design og problemløsning gjennom ulike IT-prosjekter.
 
-🌐 FILO: Nettside
+🌐 FILO: https://filo-gruppe16.vercel.app/
 
 💻 Jeg jobber blant annet med
 
